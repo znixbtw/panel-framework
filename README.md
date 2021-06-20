@@ -1,5 +1,7 @@
 <h1 align="center">Web Panel for your CS:GO cheat.</h1>
 
+> Note: This is highly unfinished and nowhere near ready to be used. This is by far the biggest project I have ever done as it is not built on a framework. I am releasing this due to not being able to find time to work on this project. Use this how you want.
+
 > An open-src project made for the community.
 
 > Default login: `admin:admin` <br />
@@ -26,7 +28,7 @@
 
 ## Credits
 
-* `https://stackoverflow.com/`
+* CTRL C CTRL V: `https://stackoverflow.com/`
 * Awesome OOP tutorials: `https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh`
 * Reference MVC model: `https://github.com/Darynazar/login-register-script-mvc`
 
