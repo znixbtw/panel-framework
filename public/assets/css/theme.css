@@ -1,0 +1,138 @@
+/* ================================================
+ * == Variables
+ * ================================================ */
+:root {
+    --color-primary: #0d1117;
+    --color-secondary: #161b22;
+    --color-contrast: #01040980;
+    --color-accent: #f9826c;
+    --color-link: #58a6ff;
+    --color-border: #30363d;
+}
+
+/* ================================================
+ * == HTML
+ * ================================================ */
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-color: var(--color-primary) !important;
+    overflow: hidden;
+}
+
+main {
+    overflow-y: auto;
+}
+
+/* ================================================
+ * == Navbar
+ * ================================================ */
+nav,
+.toast {
+    background-color: var(--color-secondary) !important;
+}
+
+nav button {
+    background-color: var(--color-secondary) !important;
+}
+
+.nav-pills .nav-link {
+    color: rgba(255, 255, 255, .55);
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: var(--color-contrast) !important;
+}
+
+/* ================================================
+ * == List
+ * ================================================ */
+.list-group-item {
+    border: none;
+    color: rgba(255, 255, 255, .5) !important;
+    background-color: transparent;
+}
+
+.list-group-item {
+    padding: 0;
+}
+
+/* ================================================
+ * == Form
+ * ================================================ */
+#auth input:-webkit-autofill,
+#auth input:-webkit-autofill:hover,
+#auth input:-webkit-autofill:focus,
+#auth textarea:-webkit-autofill,
+#auth textarea:-webkit-autofill:hover,
+#auth textarea:-webkit-autofill:focus,
+#auth select:-webkit-autofill,
+#auth select:-webkit-autofill:hover,
+#auth select:-webkit-autofill:focus,
+#auth form input,
+#auth form button,
+#auth .form-control:focus {
+    -webkit-text-fill-color: rgba(255, 255, 255, .5) !important;
+    -webkit-box-shadow: 0 0 0 1000px var(--color-primary) inset;
+}
+
+.form-control {
+    color: rgba(255, 255, 255, .8) !important
+}
+
+/* ================================================
+ * == Utility
+ * ================================================ */
+.bg-dark {
+    background-color: var(--color-primary) !important;
+}
+
+.bg-secondary {
+    background-color: var(--color-secondary) !important;
+}
+
+.bg-contrast {
+    background-color: var(--color-contrast) !important;
+}
+
+.text-accent {
+    color: var(--color-accent);
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.border, .border-bottom, .border-top {
+    border-color: var(--color-border) !important;
+}
+
+.link-primary {
+    color: var(--color-link) !important;
+}
+
+/* ================================================
+ * == Button
+ * ================================================ */
+.btn {
+    box-shadow: none !important;
+    background-color: transparent;
+    border-color: var(--color-border) !important;
+    color: rgba(255, 255, 255, .5) !important;
+    border-radius: 0;
+}
+
+.btn:hover {
+    background-color: transparent;
+    color: rgba(255, 255, 255, .8) !important;
+}
+
+/* ================================================
+ * == Preloader
+ * ================================================ */
+#preloader {
+    z-index: 999;
+}
