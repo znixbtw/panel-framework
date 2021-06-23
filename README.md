@@ -2,6 +2,8 @@
 
 > Note: This is highly unfinished and nowhere near ready to be used. This is by far the biggest project I have ever done as it is not built on a framework. I am releasing this due to not being able to find time to work on this project. Use this how you want.
 
+> More explanation, unlike v1 and v2 is not a full-fledged panel. It's ONLY a base to build upon.
+
 > An open-src project made for the community.
 
 > Default login: `admin:admin` <br />
