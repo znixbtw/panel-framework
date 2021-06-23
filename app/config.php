@@ -2,7 +2,7 @@
 
 // Change these accordingly
 const SITE_NAME = 'Framework';
-const SITE_TITLE = 'CheatController Panel Framework';
+const SITE_TITLE = 'Panel Framework';
 const SITE_DESC = 'Public free cheat panel framework made in php for the community.';
 const SITE_URL = 'http://panel/';
 
