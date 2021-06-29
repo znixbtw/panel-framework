@@ -4,5 +4,5 @@
 
 Vulnerabilities can be reported via email or twitter.
 
-- Mail: owbypass@gmail.com
+- Mail: owbypass@pm.me
 - Twitter: @znixbtw
