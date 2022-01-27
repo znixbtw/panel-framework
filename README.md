@@ -5,7 +5,7 @@
 > An open-src project made for the community.
 
 > Default login: `admin:admin` <br />
-> Discord: https://znix.cc/discord
+> Discord: https://discord.com/invite/9Ef5t2fMkk
 
 ## Overview
 
