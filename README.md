@@ -1,8 +1,6 @@
-> This is framework to build your own panel upon. Its not a finish product.
-
-> More explanation, unlike v1 and v2 is not a full-fledged panel. It's ONLY a base to build upon.
-
-> An open-src project made for the community.
+# :fire: PHP Framework
+This is made for educational and learning purpose only. 
+*Do not use it in production.*
 
 > Default login: `admin:admin` <br />
 > Discord: https://discord.com/invite/9Ef5t2fMkk
@@ -31,7 +29,3 @@
 * CTRL C CTRL V: `https://stackoverflow.com/`
 * Awesome OOP tutorials: `https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh`
 * Reference MVC model: `https://github.com/Darynazar/login-register-script-mvc`
-
-## Support
-
-* BTC: `bc1q3t8qzfvxzuup2zy7a4fd3npeg9gn57cua72a3e`
